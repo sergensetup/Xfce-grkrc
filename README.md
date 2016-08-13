@@ -1,2 +1,2 @@
 # Xfce-grkrc
-Some minimalistic theme files for Xfce
+Some minimalistic themes files for Xfce windows, based on Xfce-dusk
